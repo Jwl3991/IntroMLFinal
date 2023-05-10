@@ -7,3 +7,5 @@ The functions were reverted back to a base state, all using the BPNN networks, s
 remnant from past exerpiment iterations.
 
 The ModelFunctions file contains the functions used create, train, and to pass parameters to the models
+
+The Data file contains a link to a OneDrive folder that houses the consolidated data. It is broked up into 5 csv files.
