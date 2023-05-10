@@ -1,0 +1,9 @@
+This repository houses the code and data used for the security price prediciton project.
+
+The helpers file contains the functions used to preprocess the data
+
+The experiment_runs file contains the experiments ran. Note, these functions were continusally altered and used for testing all 3 models (by switching out the models called).
+The functions were reverted back to a base state, all using the BPNN networks, save the CNN specific functions. If there are any innacuracies it is likely due to a lingering
+remnant from past exerpiment iterations.
+
+The ModelFunctions file contains the functions used create, train, and to pass parameters to the models
